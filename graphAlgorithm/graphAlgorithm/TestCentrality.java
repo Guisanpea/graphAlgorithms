@@ -14,7 +14,7 @@ import java.io.PrintWriter;
 public class TestCentrality {
 
 	/**
-	 * @param args
+	 * @param
 	 */
 	public static void main(String[] args) throws Exception {
 				
